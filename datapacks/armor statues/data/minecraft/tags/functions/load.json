@@ -1,5 +1,7 @@
 {
-    "values": [
-        "#main:init"
-    ]
+	"values": [
+		"armor_statues:load",
+		"armor_statues:tick",
+		"armor_statues:second"
+	]
 }
